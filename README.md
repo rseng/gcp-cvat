@@ -1,7 +1,6 @@
-# CVAT on Google Cloud for Stanford
+# CVAT on Google Cloud
 
-This is a quick guide for setting up CVAT on Google Cloud, created by [RSE Services](https://stanford-rc.github.io/rse-services/).
-For this example, we will deploy the [cvat](https://github.com/openvinotoolkit/cvat) software on a Google Cloud instance, and take the following design
+This is a quick guide for setting up CVAT on Google Cloud, created by @vsoch originally for Stanford and preserved here (they archived or deleted most of my repos :( ) For this example, we will deploy the [cvat](https://github.com/openvinotoolkit/cvat) software on a Google Cloud instance, and take the following design
 choices:
 
 ## General Plan
